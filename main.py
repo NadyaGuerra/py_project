@@ -1,7 +1,7 @@
-from funcs import sum
+from funcs import min
 
 def main():
-    print(sum(2,2))
+    print(min(2,2))
 
 
 
